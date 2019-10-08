@@ -1,5 +1,5 @@
 
-import socket import *
+from socket import *
 import time
 
 # 用来存储所有的新链接的socket
